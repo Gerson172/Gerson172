@@ -1,5 +1,6 @@
 # Bem vindo! 👋
 <div>
+
 <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" 
 padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" align="right" alt="JavaScript">
 
@@ -21,10 +22,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
    }
 }
 ~~~
-
 </div>
-
-
 
 <div align="center">
   <a href="https://github.com/Gerson172">
@@ -36,10 +34,10 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 ~~~html
   <h1>Skills</h1>
 ~~~
+
 ~~~html
   <h2>Desenvolvimento Web</h2>
 ~~~
-
 <div> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -62,7 +60,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 <hr>
 
 ~~~html
-  <h2>Desenvolvimento Mobile/h2>
+  <h2>Desenvolvimento Mobile</h2>
 ~~~
 <div> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -79,8 +77,9 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+<hr>
+
 <div>
 
-![Snake animation](https://github.com/Gerson172/Gerson172/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/Gerson172/Gerson172/blob/output/github-contribution-grid-snake.svg)
 </div>
