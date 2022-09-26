@@ -11,8 +11,8 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
        "nome": "Gerson Rangel Garcia",
        "idade": 20,
        "sexo": "Masculino",
-       "profissao": "Estagiário em desenvolvimento .NET e Flutter",
-       "empresa": "ModalGR",
+       "profissao": "Desenvolvedor FullStack .NET",
+       "empresa": "Viceri-Seidor",
        "localizacao":[
            {
                 "cidade": "Praia Grande",
