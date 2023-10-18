@@ -73,7 +73,6 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 </div>
 <hr>
 
-<div>
-
+<!-- div>
   ![Snake animation](https://github.com/Gerson172/Gerson172/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div-->
