@@ -1,4 +1,4 @@
-# Bem vindo! 👋
+# Welcome! 👋
 <div>
 
 <img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" 
@@ -6,17 +6,17 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 
 ~~~json
 {
-   "desenvolvedor": {
+   "developer": {
        "id": 1,
-       "nome": "Gerson Rangel Garcia",
-       "idade": 21,
-       "sexo": "Masculino",
-       "profissao": "Desenvolvedor FullStack .NET",
-       "empresa": "Viceri-Seidor",
-       "localizacao":[
+       "name": "Gerson Rangel Garcia",
+       "age": 21,
+       "gender": "Masculino",
+       "profession": "full-stack developer",
+       "enterprise": "Viceri-Seidor",
+       "location":[
            {
-                "cidade": "Praia Grande",
-                "estado": "SP"
+                "city": "Praia Grande",
+                "uf": "SP"
            }
        ] 
    }
@@ -29,7 +29,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 ~~~
 
 ~~~html
-  <h2>Desenvolvimento Web</h2>
+  <h2>front-end development</h2>
 ~~~
 <div> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -44,7 +44,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 <hr>
 
 ~~~html
-  <h2>Desenvolvimento Back end</h2>
+  <h2>Back-end Web development</h2>
 ~~~
 <div>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -53,7 +53,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 <hr>
 
 ~~~html
-  <h2>Desenvolvimento Mobile</h2>
+  <h2>Mobile development</h2>
 ~~~
 <div> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -62,7 +62,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 <hr>
 
 ~~~html
-  <h2>Banco de dados</h2>
+  <h2>Data source</h2>
 ~~~
 <div> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
