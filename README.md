@@ -24,13 +24,6 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
 ~~~
 </div>
 
-<div align="center">
-  <a href="https://github.com/Gerson172">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerson172&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson172&layout=compact&langs_count=7&theme=dark"/> 
-</div>
-
 ~~~html
   <h1>Skills</h1>
 ~~~
