@@ -1,7 +1,7 @@
 # Bem vindo! 👋
 <div>
 
-<img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" 
+<img src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" 
 padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" align="right" alt="JavaScript">
 
 ~~~json
