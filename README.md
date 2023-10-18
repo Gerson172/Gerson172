@@ -16,7 +16,8 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
        "location":[
            {
                 "city": "Praia Grande",
-                "uf": "SP"
+                "uf": "SP",
+                "country": "Brasil"
            }
        ] 
    }
