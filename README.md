@@ -9,7 +9,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" width="350px" alig
    "developer": {
        "id": 1,
        "name": "Gerson Rangel Garcia",
-       "age": 21,
+       "age": 23,
        "gender": "Masculino",
        "profession": "full-stack developer",
        "enterprise": "Viceri-Seidor",
